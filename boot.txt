@@ -5,6 +5,8 @@
     </head>
     <body>
         <h1>BootCamp Practice</h1>
-        hello kitty 
+        boot camp git study Practice
+        branch study create 
+        branch switch
     </body>
 </html>
